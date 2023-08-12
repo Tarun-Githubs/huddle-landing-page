@@ -23,7 +23,7 @@ Mobile
 
 ### Links
 
-- Solution URL: [View Now](https://github.com/Tarun-Githubs/huddle-landing-page)
+- Solution URL: [View Now](https://www.frontendmentor.io/solutions/huddle-landing-page-rYgbW2cGu1)
 - Live Site URL: [Live Preview](https://huddle-landing-page-fmc.netlify.app/)
 
 ### Built with
